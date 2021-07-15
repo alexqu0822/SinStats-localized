@@ -1,0 +1,15 @@
+## Interface: 20501
+## Title: |cff00f26dSinStats|r
+## Author: Sinba
+## Notes : Live Stats Tracker for Burning Crusade Classic
+## Version: 3.3.6
+## SavedVariablesPerCharacter: SinStatsDB
+
+embeds.xml
+locale.lua
+SinStats.lua
+SinStatsConfig.lua
+
+## Title-zhCN: |cff880303[有爱]|r SinStats HUD角色属性
+## X-Vendor: NetEase
+## X-163UI-Version: 20200312151901
